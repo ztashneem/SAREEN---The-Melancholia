@@ -33,7 +33,7 @@ const Blogs = () => {
 
             <div className="row mt-5">
                 <div className="col-md-5">
-                    <img src={`https://benohead.com/wp-content/uploads/2012/12/web-site-structure.png`} className='object-cover img-fluid' alt="" />
+                    <img src={`https://i.ytimg.com/vi/dMAdBe4_2u4/maxresdefault.jpg`} className='object-cover img-fluid' alt="" />
                     A semantic element clearly describes its meaning to both the browser and the developer. <br />
 
                     <p>Examples of non-semantic elements:  and [span] - Tells nothing about its content.</p> <br />
@@ -41,7 +41,8 @@ const Blogs = () => {
                 </div>
                 <div className="col-md-7 mt-lg-4">
                     <h3> What are Semantics</h3>
-                    <span className='text-muted'>Author : <code>SaJeeb Ahmeed</code></span> <br />
+                    {/* <span className='text-muted'>Author : <code>SaJeeb Ahmeed</code></span> */}
+                    <br />
                     <p>
                         In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
                     </p>
@@ -67,7 +68,7 @@ const Blogs = () => {
 
 
                     <h3>The Context API is a React structure that enables you to exchange unique details and assists in solving prop-drilling from all levels of your application.</h3>
-                    <span className='text-muted'>Author : <code>SaJeeb Ahmeed</code></span>
+                    {/* <span className='text-muted'>Author : <code>SaJeeb Ahmeed</code></span> */}
                     <code className='text-muted'>
                         <h5>
                             Context provides a way to pass data through the component tree without having to pass props down manually at every level.
@@ -83,7 +84,7 @@ const Blogs = () => {
 
                 </div>
                 <div className="col-md-5">
-                    <img src={`https://www.carlrippon.com/static/44fbfa9c6a54d61eee9ade55051578c6/f71e8/context-api-eg.png`} className='img-fluid' alt="" />
+                    <img src={`https://miro.medium.com/max/1400/1*Jx8BCxZFN2SCuhQtZqfgMQ.jpeg`} className='img-fluid' alt="" />
                 </div>
             </div>
 

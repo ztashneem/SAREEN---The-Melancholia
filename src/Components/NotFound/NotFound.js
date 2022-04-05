@@ -5,7 +5,7 @@ const Notfound = () => {
     return (
         <div>
             <section className=' container-fluid p-lg-5 notfound'>
-                <div className='row justify-content-center  align-items-center'>
+                <div className='row mx-auto justify-content-center align-items-center'>
                     <div className='col-md-5 text-light '>
                         <p className='mb-2 '>
                             Error 404
@@ -39,7 +39,7 @@ const Notfound = () => {
                     <div className='col-md-7'>
                         <Link to='/'>
                             <img className='img-fluid object-cover'
-                                src='https://colibriwp.com/blog/wp-content/uploads/2019/07/2488756.jpg'
+                                src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08gBHsaCNZZUIimIw7Qj-v6v_OG-I3iEN5qa5UBusCA4DsULlVjw4yrrqqz53O3wUfkw&usqp=CAU'
                                 alt=''
                             />
                         </Link>

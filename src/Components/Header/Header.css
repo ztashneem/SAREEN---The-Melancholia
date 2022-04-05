@@ -54,11 +54,11 @@
 }
 
 .notfound {
-    background-color: #05084B;
+    background-color:#000000;
 }
 
 .notfounds {
-    background-color: #05084B;
-    height: 300px;
+    background-color: #000000;
+    height: 600px;
     width: 100%;
 }
