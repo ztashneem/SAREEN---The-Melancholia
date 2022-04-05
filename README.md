@@ -1,10 +1,20 @@
-# Getting Started with Create React App
+# SAREEN-The Melancholia
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [SAREEN-The Melancholia](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## SAREEN-The Melancholia Projects
 
-In the project directory, you can run:
+In the project directory, you can know:
+
+## Use Tools 
+
+Tools | Assists | Meterials
+| :--- | ---: | :---:
+React  JSX | React Bootstrap | React Recharts
+ React Icons | React Router | Components
+API   | React Dom | Context API
+Vs Code  | Netlify | Google Content 
+
 
 ### `npm start`
 
