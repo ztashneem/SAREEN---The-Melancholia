@@ -32,10 +32,10 @@ const Home = () => {
                     </p>
 
                     <p>
-                        <CustomLink className='btn btn-outline-dark px-lg-5 px-3' to='/blogs'> Live Demo</CustomLink>
+                        <CustomLink className='btn btn-outline-dark px-lg-5 px-3' to='/contact'> Live Show</CustomLink>
                     </p>
                 </div>
-                <h1 className='text-center my-5 specing'>Our Happy Clients Says </h1>
+                <h1 className='text-center my-5 specing'>What SAKYB Says! </h1>
                 <div className="review-container">
 
                     {
