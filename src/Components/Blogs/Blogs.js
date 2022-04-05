@@ -33,7 +33,7 @@ const Blogs = () => {
 
             <div className="row mt-5">
                 <div className="col-md-5">
-                    <img src={`https://pbs.twimg.com/media/FD7gFAOVIAchAe2.jpg`} className='object-cover img-fluid' alt="" />
+                    <img src={`https://benohead.com/wp-content/uploads/2012/12/web-site-structure.png`} className='object-cover img-fluid' alt="" />
                     A semantic element clearly describes its meaning to both the browser and the developer. <br />
 
                     <p>Examples of non-semantic elements:  and [span] - Tells nothing about its content.</p> <br />
@@ -83,7 +83,7 @@ const Blogs = () => {
 
                 </div>
                 <div className="col-md-5">
-                    <img src={`https://thepracticaldev.s3.amazonaws.com/i/g3xrvthcw24izllvb58w.png`} className='img-fluid' alt="" />
+                    <img src={`https://www.carlrippon.com/static/44fbfa9c6a54d61eee9ade55051578c6/f71e8/context-api-eg.png`} className='img-fluid' alt="" />
                 </div>
             </div>
 

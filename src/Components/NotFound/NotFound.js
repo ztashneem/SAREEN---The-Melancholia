@@ -39,7 +39,7 @@ const Notfound = () => {
                     <div className='col-md-7'>
                         <Link to='/'>
                             <img className='img-fluid object-cover'
-                                src={`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5BSxKr8AjOEiWPgeMVT-xBI9xVfymK0P9dQ&usqp=CAU`}
+                                src='https://colibriwp.com/blog/wp-content/uploads/2019/07/2488756.jpg'
                                 alt=''
                             />
                         </Link>
