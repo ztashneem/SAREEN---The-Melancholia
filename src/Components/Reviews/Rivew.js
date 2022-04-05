@@ -1,11 +1,19 @@
-import React from 'react';
+import React, { } from 'react';
+import useReviews from '../../hook/useReviews';
+import SingleReview from '../singleReview/SingleReview';
 
-const Rivew = () => {
+
+const Reviews = () => {
+    const [reviews] = useReviews();
+    // console.log(reviews);
     return (
-        <div>
-            
+        <div className='review-container gap-5 mt-4'>
+            {
+                reviews.map(review => <SingleReview key={review.id} review={review}></SingleReview>)
+            }
+
         </div>
     );
 };
 
-export default Rivew;
+export default Reviews;
