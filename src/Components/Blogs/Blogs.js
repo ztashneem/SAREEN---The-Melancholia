@@ -41,7 +41,7 @@ const Blogs = () => {
                 </div>
                 <div className="col-md-7 mt-lg-4">
                     <h3> What are Semantics</h3>
-                    {/* <span className='text-muted'>Author : <code>SaJeeb Ahmeed</code></span> */}
+                   
                     <br />
                     <p>
                         In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
@@ -68,7 +68,7 @@ const Blogs = () => {
 
 
                     <h3>The Context API is a React structure that enables you to exchange unique details and assists in solving prop-drilling from all levels of your application.</h3>
-                    {/* <span className='text-muted'>Author : <code>SaJeeb Ahmeed</code></span> */}
+                    
                     <code className='text-muted'>
                         <h5>
                             Context provides a way to pass data through the component tree without having to pass props down manually at every level.
@@ -83,8 +83,8 @@ const Blogs = () => {
                     </p>
 
                 </div>
-                <div className="col-md-5">
-                    <img src={`https://miro.medium.com/max/1400/1*Jx8BCxZFN2SCuhQtZqfgMQ.jpeg`} className='img-fluid' alt="" />
+                <div className="col-md-5 mt-lg-5 pt-lg-5">
+                    <img src={`https://www.carlrippon.com/static/0d1f722d0fe4c2bc4c3d71595dbe67dd/ca682/prop-drilling-v-context.png`} className='img-fluid' alt="" />
                 </div>
             </div>
 
